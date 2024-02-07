@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ApiFotos</string>
+    <string name="btnBuscar">Elegir Imagen</string>
+    <string name="editText">Introducir un nombre</string>
+    <string name="btnSubir">Subir Imagen</string>
+    <string name="cargando">Cargando</string>
+</resources>
